@@ -3,9 +3,9 @@ This is an OpenCV project that uses a NASA image dataset. The goal is to count t
 
 # Dataset
 - **source** : NASA
-target : Count the number of stars and display the result on the original image.
+- **target** : Count the number of stars and display the result on the original image.
 
 # Method
-language : python
-Libraries : numpy , matplotlib , opencv , google.colab
+- **language** : python
+- **Libraries** : numpy , matplotlib , opencv
 
